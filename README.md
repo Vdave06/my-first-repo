@@ -8,3 +8,11 @@
 
 - Learn Python
 - Build my first web app
+
+markdown
+
+# Tools I'm using
+- [ ] Terminal 
+- [ ] Git
+- [ ] VS code
+- [ ]Github
