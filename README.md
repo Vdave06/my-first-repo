@@ -47,3 +47,9 @@ If you'd like to contribute, open a PR with a short description of the change.
 ## License
 
 This project is licensed under the MIT License — see `LICENSE`.
+
+## Contributors 
+
+Special thanks to:
+Vikesh Dave - Project creator 
+Claude - AI learning assistant
